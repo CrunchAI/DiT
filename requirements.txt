@@ -1,0 +1,7 @@
+gradio
+opencv-python
+scipy
+shapely
+torch
+torchvision
+timm
